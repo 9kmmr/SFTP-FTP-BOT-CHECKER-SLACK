@@ -1,0 +1,8 @@
+# IDE
+.vscode
+# environment 
+.env
+# node_modules
+node_modules
+# BACKUP zip
+./*.zip
