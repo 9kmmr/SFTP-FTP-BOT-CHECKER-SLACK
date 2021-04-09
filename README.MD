@@ -4,9 +4,9 @@
 ## REQUIREMENTS
 
 ## INSTALLATION & RUNNING
-    ```js
+    `
     npm install && npm start
-    ```
+    `
 ## FEATURES
 
 
