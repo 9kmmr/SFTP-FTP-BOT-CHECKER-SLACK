@@ -4,11 +4,12 @@
 ## REQUIREMENTS
 
 ## INSTALLATION & RUNNING
-    `
+    
     npm install && npm start
-    `
+    
 ## FEATURES
 
 
 
 #### CONTRIBUTE
+Free to create PR
